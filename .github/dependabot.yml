@@ -23,3 +23,5 @@ updates:
     labels:
       - "dependencies"
       - "github-actions"
+
+# fork validation trigger
